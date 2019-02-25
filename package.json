@@ -16,6 +16,7 @@
     "fs": "0.0.2",
     "mongodb": ">=2.0.14",
     "node-rest-client": "1.4.1",
+    "connect": "2.x",
     "vows": "^0.8.1"
   }
 }
